@@ -6,3 +6,5 @@
    ###### 
    conda env create -f environment.yml
    ######
+3. For the Frozen Lake problem, please refer Frozen_Lake.ipynb
+4. For the Forest Management problem, please refer Forest_Management.ipynb
